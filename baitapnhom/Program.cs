@@ -6,7 +6,6 @@ namespace baitapnhom
 {
     class program
     {
-
         struct Info
         {
             /*public string name;
@@ -23,9 +22,6 @@ namespace baitapnhom
             public string address;
             public string tinhtrang;
             public DateTime ngayvao;
-
-
-
         }
         static string path = @"D:\C#\data.txt";
         static void nhapthongtin(out Info TT)
